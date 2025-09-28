@@ -30,30 +30,6 @@ Garnering: 1-2 körsbär
 
 Garnering: 1-2 körsbär
 
-## Bare Knuckle Boxer
-
-4 Irishman Whiskey
-
-2 Orgeatsirap
-
-2 citronjuice
-
-1st hel jordgubbe (helst utan löv)
-
-Jordgubben ska med i shakern och in i glaset. Skaka våldsamt.
-
-## Wrapped Knuckle Boxer (Mocktail)
-
-4 Svart te (Kyld) *eller* alkoholfri Whisky
-
-2 Orgeatsirap
-
-2 citronjuice
-
-1st hel jordgubbe (helst utan löv)
-
-Jordgubben ska med i shakern och in i glaset. Skaka våldsamt.
-
 ## Sex On The Beach
 
 1 vodka
@@ -88,8 +64,6 @@ Garnering: Apelsinslice, miniparaply
 
 Toppa sedan glaset med Loka. Så fullt det går utan att man spiller.
 
-## Rom & Cola (Rom, cola)
+# Mottagningstack 2025: Shots
 
-## Gin & Tonic (Gin, Tonic)
-
-## The Kinky Shot (shotta i handklovar, godtycklig dricka)
+## The Kinky Shot
