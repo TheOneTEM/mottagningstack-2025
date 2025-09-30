@@ -62,7 +62,7 @@ Toppa sedan glaset med Loka. Så fullt det går utan att man spiller.
 
 ## Drakens kink (Tas helst i handklovar)
 
-(Vodka/Sourz apple), Mjölk, grön karamellfärg
+(Vodka/Sourz apple), Mjölk, grön karamellfärg (1 droppe)
 
 ## Andra Shots
 
