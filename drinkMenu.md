@@ -22,9 +22,11 @@ Alla mått är i cl om inget annat anges. Alla drinkar serveras med is och skaka
 
 3 Hallonsirap
 
-2 Vatten
+2 Loka
 
 5 droppar Frothée
+
+**OBS! HA I LOKAN EFTER ATT DU SKAKAT FÖR ANNARS GÅR DET ÅT HELVETE**
 
 ## Markus Granseths Hårfärg
 
@@ -36,7 +38,7 @@ Alla mått är i cl om inget annat anges. Alla drinkar serveras med is och skaka
 
 2 tranbärjuice
 
-## MGH (Mocktail)
+## Markus Granseths Toner (Mocktail)
 
 2 Peach ice tea
 
@@ -60,7 +62,7 @@ Toppa sedan glaset med Loka. Så fullt det går utan att man spiller.
 
 ## Drakens kink (Tas helst i handklovar)
 
-(Vodka/Sourz), Mjölk, grön karamellfärg
+(Vodka/Sourz apple), Mjölk, grön karamellfärg
 
 ## Andra Shots
 

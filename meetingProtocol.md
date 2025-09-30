@@ -124,7 +124,7 @@ WorkAndPrepMasters (WAPM):
 
 ## Drinknamn
 
-- On theme??? Ingen theme???
+- On theme
 
 Befintliga drinknamn (Drinkmenyn tas upp här)
 
@@ -145,7 +145,7 @@ DRESSCODE: Ovve + Svart överdel + Valfri huvudbonad (Valfritt) (kattöron = SWA
 
 Fixa Alkfri BääääNGER (Drakens Eld)
 
-Ta upp att byta ut vodka mot Sourz 
+Ta upp att byta ut vodka mot Sourz apple i bääänger
 
 Fixa så att riktiga mått och instruktioner finns i de utskrivan recepten.
 

@@ -18,3 +18,4 @@
 ## Att göra
 
 1. Drinkmenyer till Meta-TV
+2. Nödrutiner för efterköret ifall nåt gåt fel
