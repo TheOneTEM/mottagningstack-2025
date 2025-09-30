@@ -38,7 +38,7 @@ Vi kör ut dem runt kl 1-1:30 så vi hinner städa innan meta larmas
   - Ansvar för att släppa in barnen (mottagningen)
   - Givakt till medlemmar utav KONGLIGA DRIFVERIET????????
   
-- 2 DrinkMasters (DM) (me (pls))
+- 2 DrinkMasters (DM) (Dungeon master (kinda kinky ngl))
   - Bemannar DrinkBaren
   - Stiliga
   - Kokar upp banger drinkar
@@ -46,7 +46,7 @@ Vi kör ut dem runt kl 1-1:30 så vi hinner städa innan meta larmas
 
 - 2 BeeranDSiderMasters (BDSM) (självförklarande) (eller ÖlBeredare (ÖB))
   - Bemannar ÖlBaren
-  - Serve beer speedrun any% (gotta go fast)
+  - Servera öl speedrun any% (gotta go fast)
   - Kommer ihåg att ta betalt (pls)
   - Fyller på vattenkannorna vid behov. Delar detta ansvar med DM
 
@@ -54,7 +54,7 @@ Vi kör ut dem runt kl 1-1:30 så vi hinner städa innan meta larmas
   - Lowkey jättechill
   - Diskar
   - Slänger tomma flaskor
-  - Vigilant: PM ska märka när nån behöver hjälp och hjälpa till
+  - Vigilant: rm ska märka när nån behöver hjälp och hjälpa till
   - Inte bara i personalen utan även bland gästerna
   - Byter av andra roller - Lite mer chill roll än alla andra imho
 
@@ -70,7 +70,7 @@ Vi kör ut dem runt kl 1-1:30 så vi hinner städa innan meta larmas
   - Preppar Ingredienser
   - Preppar Efterkörslokalen
   - Ser till så att den uppblåsbara bananen är uppblåst
-  - Ser till så att handklovarna finns och existerar typ
+  - Ser till så att handklovarna finns och fungerar
   - Kollar att all alkohol finns och är redo att bartendas
 
 ## Fördelning av roller
@@ -117,6 +117,11 @@ WorkAndPrepMasters (WAPM):
 Befintliga drinknamn (Drinkmenyn tas upp här)
 
 Drinkmenyn kommer även läggas upp på Mattermost samt printas för att ligga bakom baren (SE TILL ATT VARA MED I EFTERKÖRSKANALEN PÅ MATTERMOST)
+
+## Spellista
+
+Önska låtar???
+
 
 ## Andra anmärkningar och frågor (im only human after all, kan ju ha missat nåt)
 
