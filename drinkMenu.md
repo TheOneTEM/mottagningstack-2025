@@ -1,13 +1,13 @@
 # Mottagningstack 2025: Drinkmeny
 
-Alla mått är multipler av 40mL om inget annat anges. Alla drinkar serveras med is och skakas. Måtten kan ändras vid behov.
+Alla mått är i cl om inget annat anges. Alla drinkar serveras med is och skakas. Måtten kan ändras vid behov.
 
 ## Cerise Lady
 
 3 gin
 
 1 applejack (äppelbrandy)
-
+ 
 1 citronjuice
 
 3 Hallonsirap
@@ -26,19 +26,17 @@ Alla mått är multipler av 40mL om inget annat anges. Alla drinkar serveras med
 
 5 droppar Frothée
 
-## Sex On The Beach, Markus Hårfärg
+## Markus Granseths Hårfärg
 
-1 vodka
+2 vodka
 
-1 peach schnapps
+2 peach schnapps
 
-3 apelsinjuice
+2 apelsinjuice
 
-3 tranbärjuice
+2 tranbärjuice
 
-Garnering: Apelsinslice, miniparaply
-
-## Kissing On The Beach (Mocktail)
+## MGH (Mocktail)
 
 2 Peach ice tea
 
@@ -46,25 +44,23 @@ Garnering: Apelsinslice, miniparaply
 
 3 tranbärsjuice
 
-Garnering: Apelsinslice, miniparaply
+## Drakens Eld
 
-## THE BääääääNGER, Förgasare Special, Drakens Eld
+2 whiskey
 
-1 whiskey
+2 Passoa
 
-1 Passoa
+2 Te-sirap
 
-3 Te-sirap
-
-3 Citronsaft
+2 Citronsaft
 
 Toppa sedan glaset med Loka. Så fullt det går utan att man spiller.
 
 # Mottagningstack 2025: Shots
 
-## The Kinky Shot (Tas i handklovar)
+## Drakens kink (Tas helst i handklovar)
 
-Vodka, Mjölk
+(Vodka/Sourz), Mjölk, grön karamellfärg
 
 ## Andra Shots
 
