@@ -30,6 +30,7 @@ LÄGG TILL NEO CARLBERG OCH KARL I MATTERMOST
 Vi kör ut dem runt kl 1-1:30 så vi hinner städa innan meta larmas (Fråga Karl o Lucas)
 
 Om sittningen börjar 18 ska personal vara där senast 2130h
+
 10000% OB (0 kr lön)
 ## Roller
 
@@ -136,7 +137,7 @@ Drinkmenyn kommer även läggas upp på Mattermost samt printas för att ligga b
 
 ## Andra anmärkningar och frågor (im only human after all, kan ju ha missat nåt)
 
-Synka med Andra inköpsansvariga om ingredienser.
+Synka med Andra inköpsansvariga om ingredienser. check
 
 Fler i dörren vid första insläppet
 
