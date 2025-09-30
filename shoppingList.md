@@ -2,7 +2,7 @@
 
 1. Pfanner IceTea Peach
 2. Mjölk
-3. Te/Honung
+3. Te/Honung till T sirap
 
 ## Att printa
 

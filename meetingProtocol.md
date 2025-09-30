@@ -17,6 +17,7 @@ Malte Lundmark
 Adam 
 Herman
 Neo
+Konglig MOMS
 
 ### Kontakt på M.I.A. personal
 
@@ -47,7 +48,7 @@ Vi kör ut dem runt kl 1-1:30 så vi hinner städa innan meta larmas
 - 2 BeeranDSiderMasters (BDSM) (självförklarande) (eller ÖlBeredare (ÖB))
   - Bemannar ÖlBaren
   - Servera öl speedrun any% (gotta go fast)
-  - Kommer ihåg att ta betalt (pls)
+  - Kommer ihåg att ta betalt (plz)
   - Fyller på vattenkannorna vid behov. Delar detta ansvar med DM
 
 - 2 runningmasters (rm) (-rf / --no-preserve-root)
@@ -58,7 +59,7 @@ Vi kör ut dem runt kl 1-1:30 så vi hinner städa innan meta larmas
   - Inte bara i personalen utan även bland gästerna
   - Byter av andra roller - Lite mer chill roll än alla andra imho
 
-- 2 DiskJorkingMasters (DJM) (de vad dj står för trust)
+- 2 DiskJorkingMasters (DJM) (d e vad dj står för trust)
   - Bemannar musikmixern
   - Tar bort dåliga låtar
   - Sätter på bra låtar
