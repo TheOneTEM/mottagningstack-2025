@@ -145,7 +145,7 @@ DRESSCODE: Ovve + Svart överdel + Valfri huvudbonad (Valfritt) (kattöron = SWA
 
 Fixa Alkfri BääääNGER (Drakens Eld)
 
-Ta upp att byta ut vodka mot Sourz apple i bääänger
+Ta upp att byta ut vodka mot Sourz apple i kinky shot
 
 Fixa så att riktiga mått och instruktioner finns i de utskrivan recepten.
 
