@@ -143,8 +143,6 @@ Fler i dörren vid första insläppet
 
 DRESSCODE: Ovve + Svart överdel + Valfri huvudbonad (Valfritt) (kattöron = SWAG)
 
-Fixa Alkfri BääääNGER (Drakens Eld)
-
 Ta upp att byta ut vodka mot Sourz apple i kinky shot **check**
 
 Fixa så att riktiga mått och instruktioner finns i de utskrivan recepten.
