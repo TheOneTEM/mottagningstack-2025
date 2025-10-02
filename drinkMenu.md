@@ -46,18 +46,6 @@ Alla mått är i cl om inget annat anges. Alla drinkar serveras med is och skaka
 
 3 tranbärsjuice
 
-## Drakens Eld
-
-2 whiskey
-
-2 Passoa
-
-2 Te-sirap
-
-2 Citronsaft
-
-Toppa sedan glaset med Loka. Så fullt det går utan att man spiller.
-
 # Mottagningstack 2025: Shots
 
 ## Drakens kink (Tas helst i handklovar)

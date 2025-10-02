@@ -137,7 +137,7 @@ Drinkmenyn kommer även läggas upp på Mattermost samt printas för att ligga b
 
 ## Andra anmärkningar och frågor (im only human after all, kan ju ha missat nåt)
 
-Synka med Andra inköpsansvariga om ingredienser. check
+Synka med Andra inköpsansvariga om ingredienser. **check**
 
 Fler i dörren vid första insläppet
 
@@ -145,11 +145,11 @@ DRESSCODE: Ovve + Svart överdel + Valfri huvudbonad (Valfritt) (kattöron = SWA
 
 Fixa Alkfri BääääNGER (Drakens Eld)
 
-Ta upp att byta ut vodka mot Sourz apple i kinky shot
+Ta upp att byta ut vodka mot Sourz apple i kinky shot **check**
 
 Fixa så att riktiga mått och instruktioner finns i de utskrivan recepten.
 
-Announcement om låtönskemål läggs upp i Mattermost.
+Announcement om låtönskemål läggs upp i Mattermost. **check**
 
 Nödrutiner för efterköret ifall nåt gåt fel
 
